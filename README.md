@@ -111,6 +111,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [claude-session-tint](./plugins/claude-session-tint)
 
 ### AI & Speech
+- [clausper](https://github.com/kenawak/clausper) - Voice mod: speaks a short summary of every reply, captions it live, lists the files that changed, and takes your next prompt by voice. Local whisper.cpp, no API key.
 - [speech-ai](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI plugin with pronunciation assessment, text-to-speech, and speech-to-text. 8 MCP tools for language learning, accessibility, and voice applications.
 
 ### Automation DevOps
